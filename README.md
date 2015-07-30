@@ -1,9 +1,4 @@
----
-language: none
-tags: javascript, flow control, functions, scope
-type: lecture
-resources: 0
----
+
 
 ## Functions & Scope ~ 31min
 
